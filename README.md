@@ -6,4 +6,4 @@
 + View yesterday's weather
 + Bot assistant on the main page (websockets)
 
-
+![](https://disk.yandex.ru/i/TnYIn-ulvDhlww)
